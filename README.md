@@ -97,15 +97,15 @@
 
 <p align="center">
 
-<a href="https://dashboard.heroku.com/apps/naveed-md-link">
+<a href="https://naveed-md-link-aeff85b5fb9b.herokuapp.com/">
 <img src="https://img.shields.io/badge/🔗_PAIR_CODE_V1-2962FF?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=121212&color=2962FF"/>
 </a>
 
-<a href="https://dashboard.heroku.com/apps/naveed-md-link">
+<a href="https://naveed-md-link-aeff85b5fb9b.herokuapp.com/">
 <img src="https://img.shields.io/badge/🔗_PAIR_CODE_V2-00BCD4?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=121212&color=00BCD4"/>
 </a>
 
-<a href="https://dashboard.heroku.com/apps/naveed-md-link/qr">
+<a href="https://naveed-md-link-aeff85b5fb9b.herokuapp.com/qr">
 <img src="https://img.shields.io/badge/📱_QR_CODE-FF9800?style=for-the-badge&logo=qrcode&logoColor=white&labelColor=121212&color=FF9800"/>
 </a>
 
