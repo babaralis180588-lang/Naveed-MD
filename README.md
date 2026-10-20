@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ik.imagekit.io/shaban/SHABAN-1784205527063_Zze7YpdxH.jpeg" width="250"/>
+  <img src="https://i.ibb.co/35Qc8Ntw/e097f121f5b8.jpg" width="250"/>
 </p>
 
 <h1 align="center">⚡ NAVEED-MD ⚡</h1>
